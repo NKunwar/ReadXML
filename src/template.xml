@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TemplateInfo>
+            <Template>
+                        <TempalteId value = "SilverScript Email Explanation of Benefits">
+                                    <CMS_Lang_ID value = "4">
+										<SubjectLine >#PLANNAME# Informação importante</SubjectLine >
+									</CMS_Lang_ID>
+									 <CMS_Lang_ID value = "A">
+										<SubjectLine >중요한 #PLANNAME# 정보: 보장성명에 대한 설명서의 온라인 조회가 이제 가능합니다.</SubjectLine >
+									</CMS_Lang_ID>
+									 <CMS_Lang_ID value = "6">
+										<SubjectLine >Thông tin quan trọng về #PLANNAME#: Báo Cáo Giải Thích về Quyền Lợi Hiện Có Sẵn Trực Tuyến</SubjectLine >
+									</CMS_Lang_ID>
+									 <CMS_Lang_ID value = "8">
+										<SubjectLine >Informação importante #PLANNAME#: Explicação da Declaração de Benefícios Agora Disponível Online</SubjectLine >
+									</CMS_Lang_ID>
+                        </TempalteId>
+					    <TempalteId value = "Aetna Email Explanation of Benefits">
+                                    <CMS_Lang_ID value = "4">
+                                    <SubjectLine >Aetna Medicare 计划的重要信息：现在可在线获取福利解释声明</SubjectLine >
+									</CMS_Lang_ID>
+                        </TempalteId>
+					    <TempalteId value = "BOB Email Explanation of Benefits">
+                                    <CMS_Lang_ID value = "4">
+                                    <SubjectLine >Blue MedicareRx 计划重要信息：目前可在 Caremark.com 在线查看福利解释声明</SubjectLine >
+									</CMS_Lang_ID>
+                        </TempalteId>
+            </Template>
+</TemplateInfo> 
